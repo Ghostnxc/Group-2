@@ -12,5 +12,6 @@ public class Chapter2Project {
         System.out.println("Please enter your age >> ");
         age = inputDevice.nextInt();
         System.out.println("Your name is " + name + " and your age is " + age + " years old.");
+        System.out.println("hey its nate");
     }
 }
