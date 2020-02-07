@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Chapter2Project {
     public static void main(String[] args) {
+        System.out.println("Mike Commit");
         String name;
         int age;
         Scanner inputDevice = new Scanner(System.in);
